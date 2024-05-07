@@ -14,13 +14,13 @@ topics:
   - flutter-google-places
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: '>=3.10.0'
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  google_api_headers: ^2.0.0
+  google_api_headers: ^4.0.3
   http: ^1.0.0
   rxdart: ^0.27.7
   rxdart_ext: ^0.2.9
